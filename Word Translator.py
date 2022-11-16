@@ -2,9 +2,9 @@
 def translate(word):
     ftranslate = ""
     for letter in word:
-        if letter.lower in "aeiou":
+        if letter.lower() in "aeiou":
             if letter.isupper():
-                tfranslate = ftranslate + "K"
+                ftranslate = ftranslate + "K"
             else:
                 ftranslate = ftranslate + "k"
         else:
