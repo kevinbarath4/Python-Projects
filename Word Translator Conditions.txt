@@ -1,6 +1,8 @@
 +Kevin Language
 Every vowel is changed to --> K
 
+AEIOU
+
 Subaru --> Subkru
-Keyboard --> Keybokrd
-Ella --> Ellk
+Keyboard --> Kvybokrd
+Ella --> vllk
