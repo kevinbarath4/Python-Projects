@@ -1,0 +1,6 @@
++Kevin Language
+Every vowel is changed to --> K
+
+Subaru --> Subkru
+Keyboard --> Keybokrd
+Ella --> Ellk
