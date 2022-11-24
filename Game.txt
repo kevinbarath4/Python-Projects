@@ -10,6 +10,16 @@ A random number score is genrated between 25-50
 The sum of all the die will determine whether you beat that score or didn't
 Prize money: TBD
 
+#2 
+
+
+
+
+
+
+
+
+
 **This is the first of many casino projects to be added. I am also planning to incorporate feature like money and whatever else I can think of**
-**Btw i've made Rollio already, its just that i forgot to save it -_-**
+
 
