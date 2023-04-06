@@ -19,8 +19,7 @@ def macro(clickLocation):
 
 def startmenu():
     
-    
-    print ("deez")
+
     recursiveAnswer = input("Do you want the macro to run indefinetly? (Y/N): ")
 
     if recursiveAnswer.lower() == "n":
@@ -35,6 +34,7 @@ def startmenu():
             
             if keyboard.is_pressed("f"):
                 print("Have fun Playing!")
+                break
                     
 
     elif recursiveAnswer.lower() == "y":
@@ -49,6 +49,7 @@ def startmenu():
             
             if keyboard.is_pressed("f"):
                 print("Have fun Playing!")
+                break
                 
 
 startmenu()
